@@ -1,0 +1,23 @@
+[
+    {"name":     "Google",
+    "url":      "google.com",
+    "comen":    "site do google"
+    },
+
+    {"name":     "Twitter",
+    "url":      "twitter.com",
+    "comen":    "site do twitter"
+    },
+
+    {"name":     "Wikipedia",
+    "url":      "pt.wikipedia.org",
+    "comen":    "site do wikipedia em língua portuguesa"
+    },
+    
+    {"name":     "Pudim",
+    "url":      "pudim.com.br",
+    "comen":    "site do pudim"
+}
+
+
+]

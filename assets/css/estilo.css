@@ -1,8 +1,29 @@
 *{
-    font-family: 'Courier New', Courier, monospace;
-    
+    background-color: black;
+    color: white;
 }
 
-estilo1 {
 
+body .estilo1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blanchedalmond;
+    display: flex; 
+
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blanchedalmond;
+
+    display: flex;
+    
+
+}
+
+
+a:link A:link
+{
+font-family: 'Courier New', Courier, monospace;
+    color: blanchedalmond;
+    display: flex; 
 }

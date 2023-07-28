@@ -3,16 +3,30 @@
 
 
 
-
+<link rel="stylesheet" href="./assets/css/estilo.css">
 <title>Aposentos Felipinos</title>
+<script src="assets/js/lista.js" ></script>
 </head>
 <h1>Aposentos Felipinos</h1>
 <style href></style>
 <p class="estilo1">
-    <a href="./favoritos/favoritos.html">Lista de favoritos</a>
+    <a href="./favoritos/favoritos.html" target="_blank">Lista de favoritos</a>
 
 
 </p>
+
+
+<p>
+    teste
+</p>
+
+<script>
+    var request = new XMLHttpRequest()
+    var listas = request.open('GET', "./assets/js/sites.json")
+    bomdia = JSON.parse(listas)
+    listaparavetor(lista1);
+
+</script>
 
 
 
